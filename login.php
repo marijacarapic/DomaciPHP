@@ -41,7 +41,7 @@ if(isset($_POST['username']) && isset($_POST['password'])){
 </head>
 
 <body class="cssLogin" style=" background-size: cover;">
-    <div class="login-form" style="background-color:#f4a9c9; margin-left:450px; margin-right:450px;padding-top:80px; margin-top:50px;padding-bottom:100px; opacity:86% ; margin-top:100px ; border-radius:50%">
+    <div class="login-form" style=" margin-left:450px; margin-right:450px;padding-top:90px;  opacity:86% ; margin-top:100px ">
         <div class="main-div">
             <div class="container" >
                 <div class="row">
